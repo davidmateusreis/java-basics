@@ -1,0 +1,455 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variaveis",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula10.Variaveis",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch CuriosidadeInt",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula11.CuriosidadeInt",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Piadinha",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula11.Piadinha",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch SequenciaEscape",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula11.SequenciaEscape",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariaveisBoolean",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula11.VariaveisBoolean",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariaveisChar",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula11.VariaveisChar",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariaveisInteiras",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula11.VariaveisInteiras",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariaveisPontoFlutuante",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula11.VariaveisPontoFlutuante",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeituraDadosTeclado",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula12.LeituraDadosTeclado",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch CurtoCircuito",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.CurtoCircuito",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresAritmeticos",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.OperadoresAritmeticos",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.OperadoresLogicos",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.OperadoresRelacionais",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer01",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer01",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer02",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer02",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer03",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer03",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer04",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer04",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer05",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer05",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer06",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer06",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer07",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer07",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer08",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer08",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer09",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer09",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer10",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer10",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer11",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer11",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer12",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer12",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer13",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer13",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer14",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula13.labs.Exer14",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfElse",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula14.IfElse",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchCase",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.SwitchCase",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer01(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer01",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer02(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer02",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer03(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer03",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer04(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer04",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer05(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer05",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer06(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer06",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer07(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer07",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer08(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer08",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer09(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer09",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer10(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer10",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer11(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer11",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer12(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer12",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer13(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer13",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer14(1)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer14",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer15",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer15",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer16",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer16",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer17",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer17",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer18",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer18",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer19",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer19",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer20",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer20",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer21",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer21",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer22",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer22",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer23",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula15.labs.Exer23",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoopWhile",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula16.LoopWhile",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoopFor",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula17.LoopFor",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer01(2)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula17.labs.Exer01",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer02(2)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula17.labs.Exer02",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer03(2)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula17.labs.Exer03",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer04(2)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula17.labs.Exer04",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer05(2)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula17.labs.Exer05",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer06(2)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula17.labs.Exer06",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer07(2)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula17.labs.Exer07",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer08(2)",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula17.labs.Exer08",
+            "projectName": "java-basics_240f7189"
+        }
+    ]
+}
