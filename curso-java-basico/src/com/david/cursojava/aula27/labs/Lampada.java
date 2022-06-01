@@ -7,7 +7,7 @@ public class Lampada {
     String cor;
     String tipoDeLuz;
     int potencia;
-    int garatiaMeses;
+    int garantiaMeses;
     String[] tipos;
     boolean tipoAbajur;
 

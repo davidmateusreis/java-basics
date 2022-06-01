@@ -8,7 +8,7 @@ public class Exer01 {
 
         lampada.modelo = "A60";
         lampada.tensao = "Bivolt";
-        lampada.garatiaMeses = 36;
+        lampada.garantiaMeses = 36;
         lampada.potencia = 7;
         lampada.cor = "Amarela";
         lampada.tipoDeLuz = "Amarela";
