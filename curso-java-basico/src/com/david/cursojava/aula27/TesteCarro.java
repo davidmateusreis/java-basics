@@ -22,6 +22,6 @@ public class TesteCarro {
         double qtdCombustivel15 = gol.calcularCombustivel(15);
 
         System.out.println("A quantidade de combustível gasta para andar 10km é de " + qtdCombustivel10 + " e pra 15km é " + qtdCombustivel15 + ".");
-        System.out.println("A quantidade de combustível gasta é " + gol.calcularCombustivel(10) + " e " + gol.calcularCombustivel(15) + ".");
+        System.out.println("A quantidade de combustível gasta para andar 10km é de " + gol.calcularCombustivel(10) + " e pra 15km é " + gol.calcularCombustivel(15) + ".");
     }
 }
