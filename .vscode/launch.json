@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Exer02",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula35.labs.Exer02",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exer01",
+            "request": "launch",
+            "mainClass": "com.david.cursojava.aula35.labs.Exer01",
+            "projectName": "java-basics_240f7189"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
