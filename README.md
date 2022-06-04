@@ -1,3 +1,3 @@
 # java-basics
 
- Curso de Java Básico com Loiane Training.
+ Curso de Java 8 Básico com Loiane Training.
